@@ -42,7 +42,7 @@ README.md        # This file
 3. Open `index.html` in your browser.
 
 ## 🌐 Live Demo
-[https://apanish.vercel.app/](#) *(Replace # with your live site URL)*
+[https://apanish.vercel.app/]
 
 ## 🤝 Contributing
 Feel free to fork this repository and make improvements. If you find any issues, create a pull request or report them in the Issues section.
