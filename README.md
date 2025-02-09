@@ -33,7 +33,7 @@ README.md        # This file
 ## 📌 Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-github-username/portfolio-website.git
+   git clone https://github.com/Anish-Pal/Portfolio-Website.git
    ```
 2. Navigate to the project folder:
    ```bash
